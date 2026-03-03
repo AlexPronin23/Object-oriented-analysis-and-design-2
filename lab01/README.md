@@ -14,6 +14,9 @@
 ery и конкретные продукты от этих пекарнь. Данную структуру нужно использовать для решения проблемы.
 
 3. Диаграмма Классов:
+
+   
    <img width="805" height="712" alt="image" src="https://github.com/user-attachments/assets/ac1aafbf-1210-45ed-83a3-4e7b692b5004" />
+
 
 
