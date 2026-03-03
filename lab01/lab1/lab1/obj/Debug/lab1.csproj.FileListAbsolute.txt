@@ -1,0 +1,10 @@
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1\lab1\obj\Debug\BakeryApp.Form1.resources
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1\lab1\obj\Debug\lab1.pdb
