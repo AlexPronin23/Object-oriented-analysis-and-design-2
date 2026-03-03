@@ -1,0 +1,10 @@
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1wp\lab1wp\bin\Debug\lab1wp.exe.config
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1wp\lab1wp\bin\Debug\lab1wp.exe
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1wp\lab1wp\bin\Debug\lab1wp.pdb
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1wp\lab1wp\obj\Debug\lab1wp.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1wp\lab1wp\obj\Debug\lab1wp.Properties.Resources.resources
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1wp\lab1wp\obj\Debug\lab1wp.csproj.GenerateResource.cache
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1wp\lab1wp\obj\Debug\lab1wp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1wp\lab1wp\obj\Debug\lab1wp.exe
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1wp\lab1wp\obj\Debug\lab1wp.pdb
+C:\Users\Alex\OneDrive\Desktop\ооап\lab1wp\lab1wp\obj\Debug\BakeryApp.Form1.resources
