@@ -5,7 +5,6 @@ namespace BakeryApp
 {
     public partial class Form1 : Form
     {
-        // ==================== 📦 МОДЕЛИ ====================
 
         public enum BreadType
         {
@@ -63,7 +62,7 @@ namespace BakeryApp
                 Log($"📋 Заказ: {style} {typeName}");
                 Log(new string('-', 40));
 
-                // 🔴 🔴 🔴 ПРОБЛЕМА ЗДЕСЬ: ОГРОМНЫЙ SWITCH ДЛЯ СОЗДАНИЯ 🔴 🔴 🔴
+               
                 Bread bread = CreateBreadWithoutPattern(style, breadType);
 
                 Log(bread.Bake());
@@ -80,26 +79,24 @@ namespace BakeryApp
             }
         }
 
-        // 🔴 ЭТОТ МЕТОД НАРУШАЕТ OPEN/CLOSED PRINCIPLE
-        // Добавил новую пекарню? ПРИДИ И ПОПРАВЬ ЭТОТ МЕТОД!
         private Bread CreateBreadWithoutPattern(string style, BreadType type)
         {
             Bread bread = new Bread();
 
-            // 🔴 Уровень 1: выбираем стиль
+        
             if (style == "French")
             {
                 bread.Style = "French";
-                // 🔴 Уровень 2: внутри стиля — ещё один switch по типу
+              
                 switch (type)
                 {
                     case BreadType.Baguette:
                         bread.Name = "Baguette";
-                        // 🔴 Французская специфика
+                      
                         break;
                     case BreadType.Croissant:
                         bread.Name = "Croissant";
-                        // 🔴 Французская специфика
+                        
                         break;
                     case BreadType.Brioche:
                         bread.Name = "Brioche";
@@ -116,7 +113,7 @@ namespace BakeryApp
                 {
                     case BreadType.Baguette:
                         bread.Name = "Baguette";
-                        // 🔴 Американская специфика
+                       
                         break;
                     case BreadType.Croissant:
                         bread.Name = "Croissant";
