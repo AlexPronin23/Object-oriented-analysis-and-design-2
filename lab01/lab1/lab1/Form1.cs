@@ -5,7 +5,7 @@ namespace BakeryApp
 {
     public partial class Form1 : Form
     {
-        // ==================== 📦 МОДЕЛИ ====================
+
 
         // Типы выпечки
         public enum BreadType
@@ -80,7 +80,6 @@ namespace BakeryApp
         }
 
 
-        // ==================== 🏭 ФАБРИКИ ====================
 
         // Абстрактная фабрика (Factory Method)
         public abstract class Bakery
@@ -139,7 +138,7 @@ namespace BakeryApp
         }
 
 
-        // ==================== 🎮 UI ЛОГИКА ====================
+   
 
         private Bakery _currentBakery;
 
